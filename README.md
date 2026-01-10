@@ -65,15 +65,8 @@ drthomashealthblog_to_pdf/
 # 📑 Blog to PDF: Automated Archiving Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Focus-Automation-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Portfolio_Ready-orange?style=for-the-badge)
-
-## 🚀 Overview
-
-**The Problem:** Manually archiving a blog with 500+ posts takes approximately **20+ hours** (clicking print, saving, renaming).
-**The Solution:** This Python automation script completes the task efficiently by leveraging the **WordPress REST API** and **PDFKit**.
-
-It automatically fetches posts, converts them to clean PDFs, and merges them into a single comprehensive e-book. This project demonstrates practical API usage, error handling, and scalable automation logic.
+![Automation](https://img.shields.io/badge/Focus-Automation-green?style=for-the-badge)!
+[Status](https://img.shields.io/badge/Status-Portfolio_Ready-orange?style=for-the-badge)
 
 ---
 
