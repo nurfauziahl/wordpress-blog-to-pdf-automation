@@ -65,8 +65,8 @@ drthomashealthblog_to_pdf/
 # 📑 Blog to PDF: Automated Archiving Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Focus-Automation-green?style=for-the-badge)!
-[Status](https://img.shields.io/badge/Status-Portfolio_Ready-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Focus-Automation-green?style=for-the-badge)
+[Status](https://img.shields.io/badge/Status-Portfolio_Ready-orange?style=for-the-badge)!
 
 ---
 
