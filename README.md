@@ -89,6 +89,7 @@ Before running the script, ensure you have the following installed:
 To verify `wkhtmltopdf` installation:
 ```bash
 wkhtmltopdf --version
+```
 
 ## ▶️ How to Run
 
